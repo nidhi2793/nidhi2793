@@ -14,7 +14,7 @@
 
  <p align="left">My name is Nidhi Agrawal and I'm a Frontend Developer.
   
-  I'm from India, living in Bangalore and currently learning fullstack web developmentt in Sharpener tech.
+  I'm  living in Bangalore and currently learning fullstack web developmentt in Sharpener tech.
 
 </p>
 
