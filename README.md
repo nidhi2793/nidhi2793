@@ -22,11 +22,11 @@
 
 👯 I’m looking to collaborate on different projects
 
-👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
+👨‍💻 All of my projects are available at [my website]()
 
 
 
-👀 Ask me about HTML,CSS,JS,React, and APIs
+👀 Ask me about HTML, CSS  , JS , React and APIs
 
 📫You can reach me at nidhiagra1993@gmail.com
 
@@ -57,15 +57,15 @@
   </a>
       </p>
         <p>
-        Access real-time price of cryptocurrencies, marketcap,etc
+        Access real-time price of cryptocurrencies,market capp , etc
         <br/>
         Features:
         
   <ul>
-<li>Carousel showing various coins prices. </li>
+<li>Carousel showing various coin prices. </li>
 <li>Toggling prices in Rupees and Dollar.  </li>
-<li>Searching for particular coin. </li>
-<li>Chart showing 24h, monthly, 90days data. </li>
+<li>Searching for a particular coin. </li>
+<li>Chart showing 24h, monthly, 90 days data. </li>
 </ul>
 
 </p>
@@ -73,7 +73,7 @@
     <td width="50%" valign="top">
       <h3 align="center">Expense Tracker</h3>
         <br />
-      <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
+      <a target="_blank" href="https://expensetracker.nidhi-agrawal.com/">
             <img src="https://github.com/nidhi2793/Nidhi-Agrawal/blob/main/expense%20tacker.png?raw=true" width="100%"  alt="Expense Tracker"/>
         </a>
         <br />
@@ -91,11 +91,11 @@
         Features:
         
   <ul>
-<li>Signup and email verification using firebase auth API. </li>
-<li>Adding Expenses amount,description and category.   </li>
+<li>Signup and email verification using Firebase auth API. </li>
+<li>Adding Expenses amount, description and category.   </li>
 <li>Deleting and editing expenses. </li>
-<li>User specific using firebase authentication and database. </li>
-<li>Downloading expenses as csv format. </li>
+<li> User-specific using Firebase authentication and database. </li>
+<li>Downloading expenses as CSV format. </li>
 <li>Dark/Light mode.</li>
 </ul>
 </p>
@@ -115,7 +115,7 @@
   <a href="https://github.com/nidhi2793/Mail-Box-Client" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
   </a>
-  <a href="http://rahulkarda.netlify.app" target="_blank">
+  <a href="https://mail.nidhi-agrawal.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -125,10 +125,10 @@
         Features:
 
   <ul>
-<li>Signup and email verification using firebase auth API. </li>
-<li>Indicating emails which are unread.  </li>
+<li>Signup and email verification using Firebase auth API. </li>
+<li>Indicating emails that are unread.  </li>
 <li>Inbox and sent box. </li>
-<li>Delete email. </li>
+<li>Delete emails. </li>
 </ul>
         </p>
     </td>
@@ -148,7 +148,15 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p>Inshorts like news app where you can see news of your desired category.</p>
+        <p>Inshorts like news app.</p>
+    </br>
+    Features:
+     <ul>
+<li>Can filter news according to categories. </li>
+<li>Business, health, technology and many more options. </li>
+<li>Inbox and sent box. </li>
+<li>Load more options to see more news.</li>
+</ul>
     </td>
   </tr>
   
