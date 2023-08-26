@@ -35,7 +35,7 @@
 # Projects ⚙️
 
 <!-- <h1 align="center">Projects</h1> -->
-<table bordercolor="#66b2b2" >
+<table bordercolor="#66b2b2" style="overflow: hidden;" >
   
   <tr>
     <td width="50%" valign="top">
@@ -156,10 +156,6 @@
 <li>Load more options to see more news.</li>
 </ul>
     </td>
-  </tr>
-  
-   <tr>
-    
   </tr>
 </table>
 
