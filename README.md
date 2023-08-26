@@ -44,7 +44,7 @@
       <h3 align="center">CRYPTO TRACKER</h3>
         <br />
         <a target="_blank" href="https://cryptotracker.nidhi-agrawal.com/">
-            <img src="https://media.licdn.com/dms/image/D4D2DAQFfhhaaw9k70A/profile-treasury-image-shrink_160_160/0/1693043954373?e=1693659600&v=beta&t=Cp5ErbzpcQH1HLO_IkcL94f5SS2ASGXzNljk5qTLD4E" width="100%" alt="Crypto tracker"/>
+            <img src="https://github.com/nidhi2793/Nidhi-Agrawal/blob/main/crypto-tracker.png?raw=true" width="100%" alt="Crypto tracker"/>
         </a>
         <br />
         <p align="center">
@@ -74,7 +74,7 @@
       <h3 align="center">Expense Tracker</h3>
         <br />
       <a target="_blank" href="https://codepen.io/ShawnBasquiat/full/bGVWpYw">
-            <img src="https://media.licdn.com/dms/image/D4D2DAQETcRiljJ3X0g/profile-treasury-image-shrink_160_160/0/1693044888895?e=1693663200&v=beta&t=jtX-iro40VebJ68NjwJy4l1CB3iH2kuCokIwoWYD4Q8" width="100%"  alt="Expense Tracker"/>
+            <img src="https://github.com/nidhi2793/Nidhi-Agrawal/blob/main/expense%20tacker.png?raw=true" width="100%"  alt="Expense Tracker"/>
         </a>
         <br />
         <p align="center">
@@ -107,7 +107,7 @@
       <h3 align="center">Mail Box Client</h3>
       <br />
         <a target="_blank" href="https://mail.nidhi-agrawal.com/">
-          <img src="https://media.licdn.com/dms/image/D4D2DAQGYKw0aKwzfcw/profile-treasury-image-shrink_160_160/0/1693058785333?e=1693666800&v=beta&t=7G8iIcAG57nxZhDq4dW1ZOpplwxBQfWgLXfWHTkuoJo" width="100%" alt="Mail Box"/>
+          <img src="https://github.com/nidhi2793/Nidhi-Agrawal/blob/main/mailbox.png?raw=true" width="100%" alt="Mail Box"/>
         </a>
       <br />
         <p align="center">
@@ -136,7 +136,7 @@
       <h3 align="center">News Buzz</h3>
         <br />
         <a target="_blank" href="https://newsbuzz.nidhi-agrawal.com/">
-          <img src="https://media.licdn.com/dms/image/D4D2DAQGUaLjbAA-QYQ/profile-treasury-image-shrink_160_160/0/1693045414731?e=1693666800&v=beta&t=ep3nuOQ2VgJwPMq6rvXwlcZhUTHav3cxhcl5IBc0ymk" width="100%" alt="News Buzz"/>
+          <img src="https://github.com/nidhi2793/Nidhi-Agrawal/blob/main/news%20buzz.png?raw=true" width="100%" alt="News Buzz"/>
         </a>
         <br />
         <p align="center">
