@@ -24,7 +24,7 @@
 
 👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
 
-📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
+
 
 👀 Ask me about React, NextJS, and APIs
 
