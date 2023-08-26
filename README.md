@@ -20,9 +20,9 @@
 
 <!-- 🌱 I’m currently learning React, NextJS -->
 
-👯 I’m looking to collaborate on different projects
+👯 I’m looking to work as a frontend developer in a good firm.
 
-👨‍💻 All of my projects are available at my website.
+👨‍💻 All of my projects are available on my website.
 
 👀 Ask me about HTML, CSS, JS, React and APIs
 
