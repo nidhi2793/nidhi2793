@@ -10,7 +10,7 @@
   </a>
 </p>
 
-# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
+# Hello Folks! <img src="https://github.com/nidhi2793/Nidhi-Agrawal/blob/main/wave.gif?raw=true" width="30">
 
  <p align="left">My name is Nidhi Agrawal and I'm a Frontend Developer.
   
