@@ -26,7 +26,7 @@
 
 
 
-👀 Ask me about React, NextJS, and APIs
+👀 Ask me about HTML,CSS,JS,React, and APIs
 
 📫You can reach me at nidhiagra1993@gmail.com
 
