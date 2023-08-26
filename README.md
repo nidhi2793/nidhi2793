@@ -14,7 +14,7 @@
 
  <p align="left">My name is Nidhi Agrawal and I'm a Frontend Developer.
   
-  I'm from India, living in Bangalore and currently learning fullstack webdevelopment in Sharpener tech.
+  I'm from India, living in Bangalore and currently learning fullstack web developmentt in Sharpener tech.
 
 </p>
 
@@ -22,11 +22,9 @@
 
 👯 I’m looking to collaborate on different projects
 
-👨‍💻 All of my projects are available at [my website]()
+👨‍💻 All of my projects are available at my website.
 
-
-
-👀 Ask me about HTML, CSS  , JS , React and APIs
+👀 Ask me about HTML, CSS, JS, React and APIs
 
 📫You can reach me at nidhiagra1993@gmail.com
 
@@ -37,7 +35,7 @@
 # Projects ⚙️
 
 <!-- <h1 align="center">Projects</h1> -->
-<table bordercolor="#66b2b2">
+<table bordercolor="#66b2b2" >
   
   <tr>
     <td width="50%" valign="top">
