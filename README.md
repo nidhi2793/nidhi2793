@@ -22,7 +22,7 @@
 
 👯 I’m looking to work as a frontend developer in a good firm.
 
-👨‍💻 All of my projects are available on my website.
+👨‍💻 All of my projects are available on <a href="https://nidhi-agrawal.com/">my website<a/>
 
 👀 Ask me about HTML, CSS, JS, React and APIs
 
