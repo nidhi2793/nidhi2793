@@ -134,7 +134,7 @@
       <h3 align="center">News Buzz</h3>
         <br />
         <a target="_blank" href="https://newsbuzz.nidhi-agrawal.com/">
-          <img src="https://github.com/nidhi2793/Nidhi-Agrawal/blob/main/news%20buzz.png?raw=true" width="100%" alt="News Buzz"/>
+          <img src="https://github.com/nidhi2793/Nidhi-Agrawal/blob/main/news_buzz_thumb.png?raw=true" width="100%" alt="News Buzz"/>
         </a>
         <br />
         <p align="center">
