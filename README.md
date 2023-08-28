@@ -152,7 +152,6 @@
      <ul>
 <li>Can filter news according to categories. </li>
 <li>Business, health, technology and many more options. </li>
-<li>Inbox and sent box. </li>
 <li>Load more options to see more news.</li>
 </ul>
     </td>
