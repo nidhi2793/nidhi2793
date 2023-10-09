@@ -12,7 +12,7 @@
 
 # Hello Folks! <img src="https://github.com/nidhi2793/Nidhi-Agrawal/blob/main/wave.gif?raw=true" width="30">
 
- <p align="left">My name is Nidhi Agrawal and I'm a Frontend Developer.
+ <p align="left">My name is Nidhi Agrawal and I'm a FullStack Developer.
   
   I'm living in Bangalore and currently learning fullstack web developmentt in Sharpener tech.
 
@@ -20,11 +20,11 @@
 
 <!-- 🌱 I’m currently learning React, NextJS -->
 
-👯 I’m looking to work as a frontend developer in a good firm.
+👯 I’m looking to work as a fullstack developer in a good firm.
 
 👨‍💻 All of my projects are available on <a href="https://nidhi-agrawal.com/">my website<a/>
 
-👀 Ask me about HTML, CSS, JS, React and APIs
+👀 Ask me about HTML, CSS, JS, React, Express, MySql, Sequelize and MongoDB
 
 📫You can reach me at nidhiagra1993@gmail.com
 
